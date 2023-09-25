@@ -1,0 +1,11 @@
+Student ID, Last Name, First Name, DOB
+1,Smith,John,2000/05/10
+2,Johnson,Mary,1999/02/25
+3,Brown,David,2001/11/15
+4,Garcia,Maria,2002/08/06
+5,Lee,Kevin,2000/04/30
+6,Rodriguez,Sarah,2003/07/22
+7,Wilson,James,2001/01/05
+8,Hernandez,Jessica,2002/10/20
+9,Nguyen,Eric,2003/03/15
+10,Thompson,Amanda,2000/12/01
